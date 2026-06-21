@@ -103,13 +103,4 @@ open_to:     Freelance · Full-time remote opportunities
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-ABDULLHA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-ABDULLHA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1f6e&height=100&section=footer"/>
