@@ -49,15 +49,13 @@ open_to:     Freelance · Full-time remote opportunities
 - 💳 **Stripe** billing with subscription tiers & billing history
 - 🎮 QR/token-based **gamification** & reward system
 - 🔐 Role-based auth with **JWT** (Brand, Influencer, User, Admin)
-- 🐳 Deployed with **Docker + Kubernetes** on AWS
 
 `Go` `React` `PostgreSQL` `WebSockets` `Mistral AI` `Stripe` `TanStack Query` `Docker` `Kubernetes`
 
 ---
 
 ### 🏦 NeonFunded — Prop Trading Platform *(ZenDev Studios)*
-> Client production work. Reverse-engineered compiled JS bundles to rebuild login flows. Animated SVG trading charts & canvas-based pricing animations.
-
+> Client production work. Built the landing page for NeonFunded, a proprietary trading platform including an interactive profit calculator, dynamic pricing/plan selector, animated stats counters, and a scaling-tier visualization.
 `Next.js` `TypeScript` `Tailwind CSS` `Canvas API` `SVG Animation`
 
 ---
@@ -72,7 +70,7 @@ open_to:     Freelance · Full-time remote opportunities
 ### 🔍 AI Tool Discovery Platform *(Heisencorp Internship)*
 > Centralized directory for AI tools — search, filters, ratings, tool submission, and admin moderation panel.
 
-`React` `Node.js` `MongoDB`
+`React` `Node.js` `MongoDB` `Express`
 
 ---
 
