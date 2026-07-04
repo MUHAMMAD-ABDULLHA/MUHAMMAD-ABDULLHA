@@ -56,6 +56,7 @@ open_to:     Freelance · Full-time remote opportunities
 
 ### 🏦 NeonFunded — Prop Trading Platform *(ZenDev Studios)*
 > Client production work. Built the landing page for NeonFunded, a proprietary trading platform including an interactive profit calculator, dynamic pricing/plan selector, animated stats counters, and a scaling-tier visualization.
+
 `Next.js` `TypeScript` `Tailwind CSS` `Canvas API` `SVG Animation`
 
 ---
